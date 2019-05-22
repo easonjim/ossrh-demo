@@ -9,3 +9,5 @@ target
 .checkstyle
 bin
 gen
+pom.xml.releaseBackup
+release.properties
