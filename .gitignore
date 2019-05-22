@@ -10,5 +10,3 @@ target
 .vscode
 bin
 gen
-pom.xml.releaseBackup
-release.properties
