@@ -1,4 +1,4 @@
-# ossrh-demo
+== ossrh-demo
 
 A minimalistic Maven project to demonstrate the required setup for publishing to the
 http://central.sonatype.org/[Central Repository via OSSRH] managed by http://www.sonatype.com/[Sonatype].
